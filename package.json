@@ -1,0 +1,22 @@
+{
+  "name": "node-msql-unofficial",
+  "version": "0.0.0",
+  "description": "An easy-to-use MSSQL database connector for Node.js.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yong86/node-mssql"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yong86/node-mssql/issues"
+  },
+  "homepage": "https://github.com/yong86/node-mssql"
+}
